@@ -1,0 +1,491 @@
+СТАТИСТИКА КАЧЕСТВА ГЕНЕРАЦИИ ОПИСАНИЙ BLIP
+============================================================
+
+ОБЩАЯ ИНФОРМАЦИЯ:
+   Протестировано изображений: 50
+   Всего описаний в датасете: 8091
+
+ДЕТАЛЬНЫЕ РЕЗУЛЬТАТЫ:
+------------------------------------------------------------
+
+ИЗОБРАЖЕНИЕ 1: 125319704_49ead3463c.jpg
+BLIP:
+   Описание: a group of people riding bikes through a stream in a forest filled with rocks
+   BLEU-1: 0.400 | BLEU-2: 0.239
+   BLEU-3: 0.108 | BLEU-4: 0.061
+   METEOR: 0.243 | ROUGE-L: 0.240
+ЭТАЛОН: Person standing beside bike in stream .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 2: 2230067846_74046b89d3.jpg
+BLIP:
+   Описание: the boy is wearing a white shirt with red and blue details on the sleeves
+   BLEU-1: 0.133 | BLEU-2: 0.051
+   BLEU-3: 0.031 | BLEU-4: 0.020
+   METEOR: 0.088 | ROUGE-L: 0.077
+ЭТАЛОН: Children stretch outside .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 3: 2068960566_21e85ae0dc.jpg
+BLIP:
+   Описание: a young boy on a swing set in a park with palm trees in the background
+   BLEU-1: 0.625 | BLEU-2: 0.456
+   BLEU-3: 0.249 | BLEU-4: 0.133
+   METEOR: 0.445 | ROUGE-L: 0.400
+ЭТАЛОН: A barefoot young boy glances at the camera while swinging in a park .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 4: 3666324102_18ecdf8253.jpg
+BLIP:
+   Описание: two young girls playing on a swing set on a brick sidewalk in front of a white wall
+   BLEU-1: 0.333 | BLEU-2: 0.075
+   BLEU-3: 0.038 | BLEU-4: 0.022
+   METEOR: 0.278 | ROUGE-L: 0.296
+ЭТАЛОН: A girl and woman jump off of their swings .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 5: 1732436777_950bcdc9b8.jpg
+BLIP:
+   Описание: a man and a woman standing on a set of steps in front of a building
+   BLEU-1: 0.750 | BLEU-2: 0.592
+   BLEU-3: 0.468 | BLEU-4: 0.352
+   METEOR: 0.607 | ROUGE-L: 0.529
+ЭТАЛОН: A couple on the stairs are photographing a man and woman embracing in front of a building .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 6: 2865376471_43c5e6b941.jpg
+BLIP:
+   Описание: a group of people standing around a group of dogs that are tied to leashs
+   BLEU-1: 0.333 | BLEU-2: 0.080
+   BLEU-3: 0.042 | BLEU-4: 0.025
+   METEOR: 0.175 | ROUGE-L: 0.231
+ЭТАЛОН: A brown dog is sniffing a white dog in front of 2 women .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 7: 2747640247_b54bfa6886.jpg
+BLIP:
+   Описание: a young girl is swinging on a rope on a tree in the water
+   BLEU-1: 0.786 | BLEU-2: 0.602
+   BLEU-3: 0.453 | BLEU-4: 0.216
+   METEOR: 0.562 | ROUGE-L: 0.560
+ЭТАЛОН: A girl is playing on a homemade swing that hangs from a tree over water .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 8: 172092464_d9eb4f4f2f.jpg
+BLIP:
+   Описание: a man on water skis on a lake with trees in the background
+   BLEU-1: 0.538 | BLEU-2: 0.367
+   BLEU-3: 0.234 | BLEU-4: 0.133
+   METEOR: 0.637 | ROUGE-L: 0.500
+ЭТАЛОН: A guy waterskiing behind a boat .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 9: 1489286545_8df476fa26.jpg
+BLIP:
+   Описание: a man and a dog sit on a bench overlooking a lake at sunset
+   BLEU-1: 1.000 | BLEU-2: 0.920
+   BLEU-3: 0.891 | BLEU-4: 0.872
+   METEOR: 0.837 | ROUGE-L: 0.741
+ЭТАЛОН: A man and a dog sit on a bench near a body of water .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 10: 3691592651_6e4e7f1da9.jpg
+BLIP:
+   Описание: a man on a water slide in the middle of a body of water
+   BLEU-1: 0.429 | BLEU-2: 0.182
+   BLEU-3: 0.092 | BLEU-4: 0.054
+   METEOR: 0.221 | ROUGE-L: 0.320
+ЭТАЛОН: A girl climbs an inflatable wall over water .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 11: 3553374585_25b1bd6970.jpg
+BLIP:
+   Описание: a group of people walking around a tent with a banner on it ' s side
+   BLEU-1: 0.562 | BLEU-2: 0.387
+   BLEU-3: 0.281 | BLEU-4: 0.201
+   METEOR: 0.474 | ROUGE-L: 0.467
+ЭТАЛОН: Several men walking past a tent notice a sign .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 12: 2688102742_885e578a3f.jpg
+BLIP:
+   Описание: a woman standing on a sidewalk next to a wall with posters on it
+   BLEU-1: 0.500 | BLEU-2: 0.196
+   BLEU-3: 0.097 | BLEU-4: 0.056
+   METEOR: 0.223 | ROUGE-L: 0.323
+ЭТАЛОН: a girl wearing a short skirt looking at a rack of magazines on the sidewalk .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 13: 1626754053_81126b67b6.jpg
+BLIP:
+   Описание: a black and white dog running in a field with a frumbnt
+   BLEU-1: 0.500 | BLEU-2: 0.426
+   BLEU-3: 0.383 | BLEU-4: 0.332
+   METEOR: 0.507 | ROUGE-L: 0.522
+ЭТАЛОН: A black and white dog is going after an orange Frisbee .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 14: 3376014640_ff5b00769f.jpg
+BLIP:
+   Описание: a man riding a surf board on top of a wave in the ocean
+   BLEU-1: 0.643 | BLEU-2: 0.385
+   BLEU-3: 0.235 | BLEU-4: 0.131
+   METEOR: 0.485 | ROUGE-L: 0.467
+ЭТАЛОН: A man stands on a surfboard in the ocean with a stick in his hand .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 15: 3432495898_a5859f06b6.jpg
+BLIP:
+   Описание: a dog rolling on its back in the middle of a dirt covered street
+   BLEU-1: 0.643 | BLEU-2: 0.497
+   BLEU-3: 0.278 | BLEU-4: 0.149
+   METEOR: 0.519 | ROUGE-L: 0.455
+ЭТАЛОН: A brown dog laying on its back .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 16: 2449446913_28fa5b7c75.jpg
+BLIP:
+   Описание: a group of young baseball players standing next to each other players on a baseball field
+   BLEU-1: 0.438 | BLEU-2: 0.382
+   BLEU-3: 0.222 | BLEU-4: 0.122
+   METEOR: 0.280 | ROUGE-L: 0.400
+ЭТАЛОН: A group of baseball players wearing blue uniforms walk across the grass .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 17: 3058627443_1d57ff0a2c.jpg
+BLIP:
+   Описание: a man on a surfboard in the air above a wave in the ocean
+   BLEU-1: 0.571 | BLEU-2: 0.363
+   BLEU-3: 0.145 | BLEU-4: 0.077
+   METEOR: 0.366 | ROUGE-L: 0.444
+ЭТАЛОН: A man falling off his surfboard on the top of a wave .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 18: 2873445888_8764699246.jpg
+BLIP:
+   Описание: a young boy standing in a river with his feet in the water and his feet in the water
+   BLEU-1: 0.684 | BLEU-2: 0.585
+   BLEU-3: 0.469 | BLEU-4: 0.335
+   METEOR: 0.529 | ROUGE-L: 0.452
+ЭТАЛОН: A boy in shorts kicks while standing in shallow water .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 19: 3469585782_e708496552.jpg
+BLIP:
+   Описание: a crowd of people at a concert with their hands up in the air
+   BLEU-1: 0.857 | BLEU-2: 0.726
+   BLEU-3: 0.563 | BLEU-4: 0.356
+   METEOR: 0.489 | ROUGE-L: 0.563
+ЭТАЛОН: A crowd of people is facing the same direction while some hold their hands in the air .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 20: 2665904080_8a3b9639d5.jpg
+BLIP:
+   Описание: a brown dog laying on the ground next to a brown dog laying on the ground
+   BLEU-1: 0.188 | BLEU-2: 0.158
+   BLEU-3: 0.124 | BLEU-4: 0.079
+   METEOR: 0.566 | ROUGE-L: 0.300
+ЭТАЛОН: a brown dog nursing
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 21: 2842609837_b3a0b383f7.jpg
+BLIP:
+   Описание: a group of people are posing for a photo at a night club party
+   BLEU-1: 0.643 | BLEU-2: 0.445
+   BLEU-3: 0.258 | BLEU-4: 0.141
+   METEOR: 0.469 | ROUGE-L: 0.538
+ЭТАЛОН: A group of four friends are drinking alcohol at a party .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 22: 3351418768_596ef7fd6f.jpg
+BLIP:
+   Описание: a woman and two small children standing in front of a large rock formation
+   BLEU-1: 0.786 | BLEU-2: 0.602
+   BLEU-3: 0.396 | BLEU-4: 0.272
+   METEOR: 0.484 | ROUGE-L: 0.500
+ЭТАЛОН: a family standing in a rock cave with some of their belongings in the background
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 23: 3103231330_db98b14501.jpg
+BLIP:
+   Описание: a group of people walking down a street next to a bus with a man in a blue jacket
+   BLEU-1: 0.684 | BLEU-2: 0.478
+   BLEU-3: 0.381 | BLEU-4: 0.317
+   METEOR: 0.408 | ROUGE-L: 0.333
+ЭТАЛОН: A man in a blue jacket and gloves is standing in the street among other people .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 24: 3331009729_d3b14738e6.jpg
+BLIP:
+   Описание: a woman walking down the street while talking on a cell phone with a man in the background
+   BLEU-1: 0.722 | BLEU-2: 0.545
+   BLEU-3: 0.386 | BLEU-4: 0.247
+   METEOR: 0.709 | ROUGE-L: 0.519
+ЭТАЛОН: A girl walks on a sidewalk while talking on a cellphone .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 25: 1937262236_cbf5bfa101.jpg
+BLIP:
+   Описание: two dogs playing with each other dogs on a sandy beach with a ball in their mouth
+   BLEU-1: 0.471 | BLEU-2: 0.343
+   BLEU-3: 0.202 | BLEU-4: 0.112
+   METEOR: 0.478 | ROUGE-L: 0.370
+ЭТАЛОН: The dogs fight over the red and pink ball .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 26: 3711664623_ef87105ea7.jpg
+BLIP:
+   Описание: a group of people sitting on top of a mountain with a lake in the background
+   BLEU-1: 0.750 | BLEU-2: 0.592
+   BLEU-3: 0.468 | BLEU-4: 0.352
+   METEOR: 0.528 | ROUGE-L: 0.400
+ЭТАЛОН: A family of two young boys and a woman and man pose in front of a scenic background .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 27: 3115174046_9e96b9ce47.jpg
+BLIP:
+   Описание: a skateboarder doing a trick in a skatepark in a skate park
+   BLEU-1: 0.282 | BLEU-2: 0.208
+   BLEU-3: 0.099 | BLEU-4: 0.057
+   METEOR: 0.339 | ROUGE-L: 0.333
+ЭТАЛОН: A skateboarder casts a shadow jumping down stairs .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 28: 2193980605_4221c6474d.jpg
+BLIP:
+   Описание: a group of people jumping in the air with their arms in the air
+   BLEU-1: 0.857 | BLEU-2: 0.770
+   BLEU-3: 0.705 | BLEU-4: 0.596
+   METEOR: 0.650 | ROUGE-L: 0.690
+ЭТАЛОН: A group of people are jumping into the air with their arms held high .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 29: 3085667865_fa001816be.jpg
+BLIP:
+   Описание: the water is splashing in front of the person on the surfboard
+   BLEU-1: 0.583 | BLEU-2: 0.115
+   BLEU-3: 0.056 | BLEU-4: 0.033
+   METEOR: 0.196 | ROUGE-L: 0.364
+ЭТАЛОН: a lone surfboarder jumping a wave on a white surfboard .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 30: 2930514856_784f17064a.jpg
+BLIP:
+   Описание: two surfers in the ocean with their surfboards in the water and a wave crashing
+   BLEU-1: 0.561 | BLEU-2: 0.387
+   BLEU-3: 0.224 | BLEU-4: 0.123
+   METEOR: 0.543 | ROUGE-L: 0.444
+ЭТАЛОН: A man surfing a small wave and another man on a surfboard paddling toward it .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 31: 1032122270_ea6f0beedb.jpg
+BLIP:
+   Описание: the sky is partly over the trees and the grass is green in color
+   BLEU-1: 0.429 | BLEU-2: 0.182
+   BLEU-3: 0.092 | BLEU-4: 0.054
+   METEOR: 0.250 | ROUGE-L: 0.207
+ЭТАЛОН: A woman crouches near three dogs in a field .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 32: 3326588088_172d1b2584.jpg
+BLIP:
+   Описание: a man in a white suit sitting on a stage with a guitar in his hand
+   BLEU-1: 0.375 | BLEU-2: 0.224
+   BLEU-3: 0.156 | BLEU-4: 0.093
+   METEOR: 0.387 | ROUGE-L: 0.357
+ЭТАЛОН: Two guitarists dressed in white perform .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 33: 143688283_a96ded20f1.jpg
+BLIP:
+   Описание: a man in a white shirt and purple shorts climbing on a rock in the woods
+   BLEU-1: 0.688 | BLEU-2: 0.566
+   BLEU-3: 0.489 | BLEU-4: 0.433
+   METEOR: 0.590 | ROUGE-L: 0.560
+ЭТАЛОН: a man in a harness climbing a rock wall
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 34: 2442243868_abe8f74fb4.jpg
+BLIP:
+   Описание: a dog playing with a yellow ball in a field of grass and dirt
+   BLEU-1: 0.429 | BLEU-2: 0.314
+   BLEU-3: 0.132 | BLEU-4: 0.071
+   METEOR: 0.358 | ROUGE-L: 0.364
+ЭТАЛОН: A brown dog chasing a yellow toy .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 35: 2414390475_28a0107bb0.jpg
+BLIP:
+   Описание: the boy is wearing a white t - shirt with a picture on it
+   BLEU-1: 0.495 | BLEU-2: 0.315
+   BLEU-3: 0.196 | BLEU-4: 0.110
+   METEOR: 0.270 | ROUGE-L: 0.270
+ЭТАЛОН: A guy with long brown curly hair wearing a white t-shirt is looking into the camera with something in his mouth . a
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 36: 427167162_2c99779444.jpg
+BLIP:
+   Описание: a group of people standing on the side of a street near a building
+   BLEU-1: 0.714 | BLEU-2: 0.524
+   BLEU-3: 0.361 | BLEU-4: 0.254
+   METEOR: 0.349 | ROUGE-L: 0.545
+ЭТАЛОН: a group of men are fighting in front of a bar in a European city , one of them hitting another with a stick .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 37: 2704257993_d485058a5f.jpg
+BLIP:
+   Описание: a group of young children riding skates on a blue surface in a room
+   BLEU-1: 0.429 | BLEU-2: 0.257
+   BLEU-3: 0.116 | BLEU-4: 0.065
+   METEOR: 0.367 | ROUGE-L: 0.273
+ЭТАЛОН: Little boy skating in roller rink , two little girls in background .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 38: 384465370_9918873f9a.jpg
+BLIP:
+   Описание: a man riding a bike down a dirt road with a sign in the background
+   BLEU-1: 0.400 | BLEU-2: 0.293
+   BLEU-3: 0.240 | BLEU-4: 0.182
+   METEOR: 0.487 | ROUGE-L: 0.357
+ЭТАЛОН: Two cyclists atop a hill as seen from below .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 39: 2291485126_b8d41a63f4.jpg
+BLIP:
+   Описание: a person on a snowboard doing a trick on a snow covered hill
+   BLEU-1: 0.427 | BLEU-2: 0.257
+   BLEU-3: 0.180 | BLEU-4: 0.107
+   METEOR: 0.243 | ROUGE-L: 0.435
+ЭТАЛОН: A person on skis is jumping a small hill .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 40: 3550253365_27d4c303cf.jpg
+BLIP:
+   Описание: a group of people sitting on top of a stone wall with trees in the background
+   BLEU-1: 0.750 | BLEU-2: 0.592
+   BLEU-3: 0.468 | BLEU-4: 0.296
+   METEOR: 0.506 | ROUGE-L: 0.483
+ЭТАЛОН: A group of people sit on a rocky ledge with a scenic view behind them .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 41: 3604391853_b4809fcb8c.jpg
+BLIP:
+   Описание: a man laying on the ground with a froth of food in his mouth
+   BLEU-1: 0.714 | BLEU-2: 0.469
+   BLEU-3: 0.336 | BLEU-4: 0.172
+   METEOR: 0.390 | ROUGE-L: 0.444
+ЭТАЛОН: a man in a red shirt is laying on the grass reaching out to another person .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 42: 2467853482_17009933e8.jpg
+BLIP:
+   Описание: the boy is wearing a blue button - down shirt with a button - down collar
+   BLEU-1: 0.438 | BLEU-2: 0.296
+   BLEU-3: 0.187 | BLEU-4: 0.107
+   METEOR: 0.419 | ROUGE-L: 0.385
+ЭТАЛОН: A boy blowing bubbles .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 43: 1287475186_2dee85f1a5.jpg
+BLIP:
+   Описание: a young boy playing in the water with a frothy frc
+   BLEU-1: 0.727 | BLEU-2: 0.661
+   BLEU-3: 0.529 | BLEU-4: 0.257
+   METEOR: 0.465 | ROUGE-L: 0.471
+ЭТАЛОН: A boy sitting in water .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 44: 590445887_4d4fa43923.jpg
+BLIP:
+   Описание: a woman in a bikini top holding a hut with a hut
+   BLEU-1: 0.583 | BLEU-2: 0.399
+   BLEU-3: 0.321 | BLEU-4: 0.244
+   METEOR: 0.250 | ROUGE-L: 0.417
+ЭТАЛОН: A woman in a green wig hula-hoops in front of a crowd .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 45: 3151492269_28d8edaa68.jpg
+BLIP:
+   Описание: two dogs playing in a yard with a frurd dog in the background
+   BLEU-1: 0.692 | BLEU-2: 0.537
+   BLEU-3: 0.378 | BLEU-4: 0.192
+   METEOR: 0.555 | ROUGE-L: 0.526
+ЭТАЛОН: A brown dog is running next to a chain link fence while a darker dog stands nearby .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 46: 1572532018_64c030c974.jpg
+BLIP:
+   Описание: two boys playing on the beach with a froth of water in the background
+   BLEU-1: 0.619 | BLEU-2: 0.352
+   BLEU-3: 0.211 | BLEU-4: 0.117
+   METEOR: 0.433 | ROUGE-L: 0.400
+ЭТАЛОН: children playing at the beach
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 47: 1620397000_3883e3ecd3.jpg
+BLIP:
+   Описание: a black and white dog is walking through a muddy puddle in a field
+   BLEU-1: 0.532 | BLEU-2: 0.478
+   BLEU-3: 0.332 | BLEU-4: 0.234
+   METEOR: 0.452 | ROUGE-L: 0.480
+ЭТАЛОН: A black and white spotted dog is jumping over the small stream of water .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 48: 2183967273_d182e18cf6.jpg
+BLIP:
+   Описание: a dog laying on the floor next to a teddy bear and a television
+   BLEU-1: 0.643 | BLEU-2: 0.445
+   BLEU-3: 0.258 | BLEU-4: 0.141
+   METEOR: 0.390 | ROUGE-L: 0.444
+ЭТАЛОН: A brown and black dog laying on a grey plushie in front of a TV showing breaking news .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 49: 241345864_138471c9ea.jpg
+BLIP:
+   Описание: a man and a woman sitting on the sidelines of a football field
+   BLEU-1: 0.692 | BLEU-2: 0.537
+   BLEU-3: 0.301 | BLEU-4: 0.161
+   METEOR: 0.465 | ROUGE-L: 0.400
+ЭТАЛОН: A boy cheerleader has a girl cheerleader on his knee .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 50: 2842865689_e37256d9ce.jpg
+BLIP:
+   Описание: two children sitting at a table in a room with a blue wall behind them
+   BLEU-1: 0.800 | BLEU-2: 0.676
+   BLEU-3: 0.523 | BLEU-4: 0.329
+   METEOR: 0.544 | ROUGE-L: 0.437
+ЭТАЛОН: An African man and a boy are standing behind a coarse wooden table in a blue room .
+----------------------------------------
+
+============================================================
+ИТОГОВЫЕ МЕТРИКИ (СРЕДНИЕ)
+============================================================
+
+BLIP (Генерация):
+   BLEU-1: 0.577
+   BLEU-2: 0.411
+   BLEU-3: 0.288
+   BLEU-4: 0.192
+   METEOR: 0.430
+   ROUGE-L: 0.421
+
+ИНТЕРПРЕТАЦИЯ МЕТРИК:
+   BLEU-4: Точное совпадение n-gram
+   METEOR: Учитывает синонимы и морфологию
+   ROUGE-L: Смысловое сходство
+
+            # Стандартные параметры BLIP
+            with torch.no_grad():
+                outputs = self.model_loader.blip_caption_model.generate(
+                    **inputs, 
+                    max_length=50, #50
+                    min_length=15,
+
+                    do_sample = False, #выключить сэмплирование, beam search
+
+                    num_beams=7, #standart: num_beams = 5
+                    early_stopping=True,
+                    
+                    #top_p=0.5 #standart: top_p=0.9
+                )

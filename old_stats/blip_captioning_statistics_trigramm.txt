@@ -1,0 +1,496 @@
+СТАТИСТИКА КАЧЕСТВА ГЕНЕРАЦИИ ОПИСАНИЙ BLIP
+============================================================
+
+ОБЩАЯ ИНФОРМАЦИЯ:
+   Протестировано изображений: 50
+   Всего описаний в датасете: 8091
+
+ДЕТАЛЬНЫЕ РЕЗУЛЬТАТЫ:
+------------------------------------------------------------
+
+ИЗОБРАЖЕНИЕ 1: 3139895886_5a6d495b13.jpg
+BLIP:
+   Описание: a black and white dog running through a field of tall grass
+   BLEU-1: 0.833 | BLEU-2: 0.728
+   BLEU-3: 0.645 | BLEU-4: 0.545
+   METEOR: 0.715 | ROUGE-L: 0.769
+ЭТАЛОН: A black-and-white dog bounds off the ground , all feet in the air , of a yellow field .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 2: 3133825703_359a0c414d.jpg
+BLIP:
+   Описание: a man in a red jacket holding a small child in his arms
+   BLEU-1: 0.462 | BLEU-2: 0.196
+   BLEU-3: 0.099 | BLEU-4: 0.058
+   METEOR: 0.149 | ROUGE-L: 0.214
+ЭТАЛОН: A child staring at Santa .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 3: 244910177_7c4ec3f65b.jpg
+BLIP:
+   Описание: a woman walking down the street with a pink bag on her shoulder
+   BLEU-1: 0.641 | BLEU-2: 0.445
+   BLEU-3: 0.325 | BLEU-4: 0.236
+   METEOR: 0.592 | ROUGE-L: 0.421
+ЭТАЛОН: Three woman walk down a city street and one has a pink purse .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 4: 2127207912_9298824e66.jpg
+BLIP:
+   Описание: two people climbing up the side of a rock face to face
+   BLEU-1: 0.667 | BLEU-2: 0.348
+   BLEU-3: 0.147 | BLEU-4: 0.080
+   METEOR: 0.262 | ROUGE-L: 0.267
+ЭТАЛОН: The two people are standing on a rock , holding themselves up against another rock , while looking down
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 5: 1810651611_35aae644fb.jpg
+BLIP:
+   Описание: a little girl in a red and white dress on a swing
+   BLEU-1: 0.917 | BLEU-2: 0.764
+   BLEU-3: 0.619 | BLEU-4: 0.477
+   METEOR: 0.622 | ROUGE-L: 0.667
+ЭТАЛОН: A closeup of a little girl on a swing .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 6: 2271468944_3264d29208.jpg
+BLIP:
+   Описание: the boy is holding a water bottle in his right hand
+   BLEU-1: 0.364 | BLEU-2: 0.191
+   BLEU-3: 0.101 | BLEU-4: 0.062
+   METEOR: 0.181 | ROUGE-L: 0.316
+ЭТАЛОН: A boy at the beach dumps a bucket of water on another boy 's head .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 7: 1813777902_07d1d4b00c.jpg
+BLIP:
+   Описание: a young boy wearing a pirate costume and holding a sword
+   BLEU-1: 0.636 | BLEU-2: 0.505
+   BLEU-3: 0.308 | BLEU-4: 0.171
+   METEOR: 0.422 | ROUGE-L: 0.571
+ЭТАЛОН: a boy dressed as a pirate smiles largley .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 8: 146577646_9e64b8c2dc.jpg
+BLIP:
+   Описание: a man on a kayak in the rapids of a river
+   BLEU-1: 0.545 | BLEU-2: 0.330
+   BLEU-3: 0.146 | BLEU-4: 0.081
+   METEOR: 0.427 | ROUGE-L: 0.421
+ЭТАЛОН: A kayaker is battling waves in a purple boat while wearing rain gear .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 9: 127490019_7c5c08cb11.jpg
+BLIP:
+   Описание: a woman in a blue shirt and white shorts playing golf
+   BLEU-1: 0.818 | BLEU-2: 0.640
+   BLEU-3: 0.518 | BLEU-4: 0.361
+   METEOR: 0.645 | ROUGE-L: 0.640
+ЭТАЛОН: A girl is getting ready to swing the club .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 10: 3443703471_14845d8850.jpg
+BLIP:
+   Описание: two dogs jumping over a wooden fence in a field of grass
+   BLEU-1: 0.613 | BLEU-2: 0.453
+   BLEU-3: 0.339 | BLEU-4: 0.249
+   METEOR: 0.681 | ROUGE-L: 0.455
+ЭТАЛОН: A dog leaps over a barrier .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 11: 3676561090_9828a9f6d0.jpg
+BLIP:
+   Описание: a dog playing in the grass with a frumbnt
+   BLEU-1: 0.667 | BLEU-2: 0.500
+   BLEU-3: 0.333 | BLEU-4: 0.190
+   METEOR: 0.619 | ROUGE-L: 0.625
+ЭТАЛОН: A dog rolls in the grass .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 12: 3715559023_70c41b31c7.jpg
+BLIP:
+   Описание: a person sitting on a rock in front of a waterfall
+   BLEU-1: 0.818 | BLEU-2: 0.757
+   BLEU-3: 0.637 | BLEU-4: 0.556
+   METEOR: 0.685 | ROUGE-L: 0.667
+ЭТАЛОН: A girl is sitting on a rock next to a waterfall .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 13: 458213442_12c59e61a0.jpg
+BLIP:
+   Описание: a black and white dog jumping over a hurdle in a park
+   BLEU-1: 0.917 | BLEU-2: 0.764
+   BLEU-3: 0.666 | BLEU-4: 0.558
+   METEOR: 0.741 | ROUGE-L: 0.783
+ЭТАЛОН: A black and white dog is jumping over a hurdle .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 14: 3220161734_77f42734b9.jpg
+BLIP:
+   Описание: a couple of people on a stage performing a dance routine
+   BLEU-1: 0.364 | BLEU-2: 0.093
+   BLEU-3: 0.050 | BLEU-4: 0.031
+   METEOR: 0.136 | ROUGE-L: 0.273
+ЭТАЛОН: A blond haired child in a black outfit and red belt doing karate .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 15: 3483140026_e14f64fdf5.jpg
+BLIP:
+   Описание: a man in an orange jacket and hard hat on a ladder
+   BLEU-1: 0.767 | BLEU-2: 0.670
+   BLEU-3: 0.594 | BLEU-4: 0.539
+   METEOR: 0.604 | ROUGE-L: 0.640
+ЭТАЛОН: A man in a hardhat stands beside a ladder .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 16: 2603125422_659391f961.jpg
+BLIP:
+   Описание: graffiti on the side of a building next to a street
+   BLEU-1: 0.636 | BLEU-2: 0.437
+   BLEU-3: 0.280 | BLEU-4: 0.159
+   METEOR: 0.348 | ROUGE-L: 0.370
+ЭТАЛОН: A car is parked in a graffiti filled street .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 17: 3396036947_0af6c3aab7.jpg
+BLIP:
+   Описание: a young boy is swinging on a swing in a park
+   BLEU-1: 0.830 | BLEU-2: 0.728
+   BLEU-3: 0.688 | BLEU-4: 0.620
+   METEOR: 0.533 | ROUGE-L: 0.615
+ЭТАЛОН: A boy on a swing .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 18: 2762702644_2aa3bf9680.jpg
+BLIP:
+   Описание: a young girl playing a violin in front of a window
+   BLEU-1: 0.818 | BLEU-2: 0.701
+   BLEU-3: 0.651 | BLEU-4: 0.608
+   METEOR: 0.484 | ROUGE-L: 0.571
+ЭТАЛОН: A woman wearing a red and black outfit standing in front of a building playing a violin .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 19: 2644916196_16f91dae54.jpg
+BLIP:
+   Описание: a small child sitting at a table with food on it
+   BLEU-1: 0.727 | BLEU-2: 0.467
+   BLEU-3: 0.368 | BLEU-4: 0.279
+   METEOR: 0.343 | ROUGE-L: 0.444
+ЭТАЛОН: A child with a yellow cup and milk all over his face .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 20: 2832487464_2d30634e1e.jpg
+BLIP:
+   Описание: a black and white dog is jumping over a jump rail
+   BLEU-1: 0.818 | BLEU-2: 0.809
+   BLEU-3: 0.800 | BLEU-4: 0.786
+   METEOR: 0.818 | ROUGE-L: 0.818
+ЭТАЛОН: A black and white dog is jumping over a hurdle .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 21: 2886411666_72d8b12ce4.jpg
+BLIP:
+   Описание: a small dog running in the grass next to a fence
+   BLEU-1: 0.727 | BLEU-2: 0.381
+   BLEU-3: 0.160 | BLEU-4: 0.087
+   METEOR: 0.404 | ROUGE-L: 0.476
+ЭТАЛОН: a black , brown and white dog is running beside a green fence in a grassy garden .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 22: 3367053761_8ec5834bf3.jpg
+BLIP:
+   Описание: a group of people sitting at desks in a library
+   BLEU-1: 1.000 | BLEU-2: 0.882
+   BLEU-3: 0.788 | BLEU-4: 0.676
+   METEOR: 0.760 | ROUGE-L: 0.737
+ЭТАЛОН: A girl with a bun is sitting at a desk .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 23: 2723477522_d89f5ac62b.jpg
+BLIP:
+   Описание: two dogs running in a field with trees in the background
+   BLEU-1: 0.455 | BLEU-2: 0.302
+   BLEU-3: 0.137 | BLEU-4: 0.078
+   METEOR: 0.654 | ROUGE-L: 0.444
+ЭТАЛОН: A big dog chases a little dog on the grass .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 24: 3128514681_a51b415c31.jpg
+BLIP:
+   Описание: a woman standing on the side of a road at night
+   BLEU-1: 0.818 | BLEU-2: 0.757
+   BLEU-3: 0.685 | BLEU-4: 0.588
+   METEOR: 0.651 | ROUGE-L: 0.600
+ЭТАЛОН: Two ladies wearing dresses pose on the side of the road at night .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 25: 312427606_defa0dfaa8.jpg
+BLIP:
+   Описание: a little girl holding an apple in front of her face
+   BLEU-1: 0.273 | BLEU-2: 0.165
+   BLEU-3: 0.092 | BLEU-4: 0.057
+   METEOR: 0.163 | ROUGE-L: 0.300
+ЭТАЛОН: A blond-hair girl is eating a peach .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 26: 3182258223_5b9c8a8c55.jpg
+BLIP:
+   Описание: a man and a woman standing next to each other people
+   BLEU-1: 0.364 | BLEU-2: 0.191
+   BLEU-3: 0.101 | BLEU-4: 0.062
+   METEOR: 0.154 | ROUGE-L: 0.154
+ЭТАЛОН: A woman in shadow looks at the camera while the one in the sun looks at a book .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 27: 3056569684_c264c88d00.jpg
+BLIP:
+   Описание: a white truck with a broken car on the back of it
+   BLEU-1: 0.417 | BLEU-2: 0.195
+   BLEU-3: 0.100 | BLEU-4: 0.060
+   METEOR: 0.284 | ROUGE-L: 0.231
+ЭТАЛОН: A damaged ambulance is being hauled on a truck bed down the road .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 28: 3560081723_62da0035bd.jpg
+BLIP:
+   Описание: a man riding a quad quad quad atv on a dirt track
+   BLEU-1: 0.667 | BLEU-2: 0.492
+   BLEU-3: 0.293 | BLEU-4: 0.161
+   METEOR: 0.492 | ROUGE-L: 0.480
+ЭТАЛОН: A man driving a four-wheeler off-road .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 29: 2192333873_2a0cbe849d.jpg
+BLIP:
+   Описание: a man sliding down a snowy hill on a snowboard
+   BLEU-1: 0.400 | BLEU-2: 0.211
+   BLEU-3: 0.111 | BLEU-4: 0.068
+   METEOR: 0.293 | ROUGE-L: 0.348
+ЭТАЛОН: A boy is flying down a snow covered slope on his sled .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 30: 3397220683_4aca010f86.jpg
+BLIP:
+   Описание: a dog is standing in the snow next to a man
+   BLEU-1: 0.818 | BLEU-2: 0.701
+   BLEU-3: 0.481 | BLEU-4: 0.342
+   METEOR: 0.549 | ROUGE-L: 0.583
+ЭТАЛОН: A golden retreiver standing outside in the snow with a person standing with skis and poles .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 31: 3339105374_cc41e0b7d7.jpg
+BLIP:
+   Описание: two people on snowboards going down a snowy hill
+   BLEU-1: 0.667 | BLEU-2: 0.500
+   BLEU-3: 0.333 | BLEU-4: 0.190
+   METEOR: 0.694 | ROUGE-L: 0.706
+ЭТАЛОН: A woman in a red coat with a man in a white and black coat and a black dog in the snow .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 32: 424506167_01f365726b.jpg
+BLIP:
+   Описание: a dog and a puppy are standing in a grassy field
+   BLEU-1: 0.818 | BLEU-2: 0.572
+   BLEU-3: 0.421 | BLEU-4: 0.309
+   METEOR: 0.577 | ROUGE-L: 0.545
+ЭТАЛОН: A large and small dog interact in a grassy field .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 33: 95728660_d47de66544.jpg
+BLIP:
+   Описание: a man riding a bike on a trail in the mountains
+   BLEU-1: 1.000 | BLEU-2: 0.707
+   BLEU-3: 0.484 | BLEU-4: 0.240
+   METEOR: 0.796 | ROUGE-L: 0.625
+ЭТАЛОН: A guy is riding a bike up the side of a hill .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 34: 2671602981_4edde92658.jpg
+BLIP:
+   Описание: a young girl jumping into the water on a surfboard
+   BLEU-1: 0.800 | BLEU-2: 0.596
+   BLEU-3: 0.450 | BLEU-4: 0.336
+   METEOR: 0.686 | ROUGE-L: 0.667
+ЭТАЛОН: A little girl in a bathing suit leaps up in the water .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 35: 498794783_cc2ac62b47.jpg
+BLIP:
+   Описание: a little girl in a dress blowing soap bubbles at a park
+   BLEU-1: 0.833 | BLEU-2: 0.674
+   BLEU-3: 0.570 | BLEU-4: 0.448
+   METEOR: 0.702 | ROUGE-L: 0.538
+ЭТАЛОН: A girl in a dress is blowing bubbles with another girl behind her .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 36: 3159995270_17334ccb5b.jpg
+BLIP:
+   Описание: a person skiing down a hill with trees in the background
+   BLEU-1: 0.664 | BLEU-2: 0.246
+   BLEU-3: 0.116 | BLEU-4: 0.067
+   METEOR: 0.375 | ROUGE-L: 0.348
+ЭТАЛОН: A female skier in a green with pink flowers hat skiing .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 37: 3004359992_f6b3617706.jpg
+BLIP:
+   Описание: a group of girls jumping in the air on a track
+   BLEU-1: 0.636 | BLEU-2: 0.564
+   BLEU-3: 0.477 | BLEU-4: 0.339
+   METEOR: 0.473 | ROUGE-L: 0.522
+ЭТАЛОН: A group of girls in cheerleader clothing tosses another girl into the air with an athletic field in the background .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 38: 3333017828_b930b9d41b.jpg
+BLIP:
+   Описание: a dog is running through the water on a rocky beach
+   BLEU-1: 0.727 | BLEU-2: 0.539
+   BLEU-3: 0.322 | BLEU-4: 0.176
+   METEOR: 0.577 | ROUGE-L: 0.636
+ЭТАЛОН: A dog runs along a beach near the waves .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 39: 3038045802_93f2cd5fbc.jpg
+BLIP:
+   Описание: a snowboarder doing a trick on a half pipe
+   BLEU-1: 0.556 | BLEU-2: 0.373
+   BLEU-3: 0.166 | BLEU-4: 0.095
+   METEOR: 0.195 | ROUGE-L: 0.333
+ЭТАЛОН: A skier doing a high jump from a snowy ramp near a mountain range .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 40: 319851847_7212423309.jpg
+BLIP:
+   Описание: a man using a chainsaw to cut a piece of wood
+   BLEU-1: 0.727 | BLEU-2: 0.539
+   BLEU-3: 0.322 | BLEU-4: 0.176
+   METEOR: 0.557 | ROUGE-L: 0.571
+ЭТАЛОН: A man is using a chainsaw on a statue .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 41: 3576259024_9c05b163aa.jpg
+BLIP:
+   Описание: a person on a dirt bike doing a trick in the air
+   BLEU-1: 0.833 | BLEU-2: 0.615
+   BLEU-3: 0.427 | BLEU-4: 0.303
+   METEOR: 0.400 | ROUGE-L: 0.545
+ЭТАЛОН: A man in blue jumping a dirt bike .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 42: 47870024_73a4481f7d.jpg
+BLIP:
+   Описание: a boy riding a skateboard down the side of a road
+   BLEU-1: 0.545 | BLEU-2: 0.330
+   BLEU-3: 0.146 | BLEU-4: 0.081
+   METEOR: 0.291 | ROUGE-L: 0.435
+ЭТАЛОН: A boy in yellow is riding a scooter on the street .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 43: 3329169877_175cb16845.jpg
+BLIP:
+   Описание: a snowboarder doing a trick on a snowy slope
+   BLEU-1: 0.556 | BLEU-2: 0.373
+   BLEU-3: 0.166 | BLEU-4: 0.095
+   METEOR: 0.203 | ROUGE-L: 0.400
+ЭТАЛОН: A lone snowboarder wearing a white jacket jumping into the air on the snowy mountains .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 44: 3009644534_992e9ea2a7.jpg
+BLIP:
+   Описание: a dog running through a field with a ball in its mouth
+   BLEU-1: 0.833 | BLEU-2: 0.728
+   BLEU-3: 0.599 | BLEU-4: 0.516
+   METEOR: 0.764 | ROUGE-L: 0.727
+ЭТАЛОН: a closeup photo of a small dog with a holey ball in his mouth .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 45: 3206999917_e682672cbc.jpg
+BLIP:
+   Описание: a black and white dog walking in the snow with its tongue out
+   BLEU-1: 1.000 | BLEU-2: 0.816
+   BLEU-3: 0.570 | BLEU-4: 0.367
+   METEOR: 0.708 | ROUGE-L: 0.571
+ЭТАЛОН: A black , brown and white dog with his tongue out is in the snow
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 46: 3204354161_caf89ec784.jpg
+BLIP:
+   Описание: a man doing a trick on a motorcycle in the air
+   BLEU-1: 0.727 | BLEU-2: 0.467
+   BLEU-3: 0.293 | BLEU-4: 0.164
+   METEOR: 0.345 | ROUGE-L: 0.400
+ЭТАЛОН: a dirt biker performs a trick in midair ,
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 47: 823675317_b5fbdb17b3.jpg
+BLIP:
+   Описание: a little boy standing on the beach with a bucket in his hand
+   BLEU-1: 0.641 | BLEU-2: 0.497
+   BLEU-3: 0.440 | BLEU-4: 0.390
+   METEOR: 0.672 | ROUGE-L: 0.609
+ЭТАЛОН: a boy in blue carries a bucket .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 48: 3685328542_ab999b83bb.jpg
+BLIP:
+   Описание: a crowd of people watching a man in a green outfit
+   BLEU-1: 0.545 | BLEU-2: 0.467
+   BLEU-3: 0.421 | BLEU-4: 0.367
+   METEOR: 0.368 | ROUGE-L: 0.400
+ЭТАЛОН: A dark man in a white and green feathered mask with green jewelry and pants .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 49: 3344798356_5cc41f7939.jpg
+BLIP:
+   Описание: a child on skis in the snow with trees in the background
+   BLEU-1: 0.635 | BLEU-2: 0.383
+   BLEU-3: 0.235 | BLEU-4: 0.130
+   METEOR: 0.443 | ROUGE-L: 0.444
+ЭТАЛОН: A child is wearing a blue hat and snowsuit with red skis on their feet .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 50: 251586160_a31b187a37.jpg
+BLIP:
+   Описание: a black dog jumping in the air on a skateboard
+   BLEU-1: 0.800 | BLEU-2: 0.422
+   BLEU-3: 0.285 | BLEU-4: 0.164
+   METEOR: 0.562 | ROUGE-L: 0.526
+ЭТАЛОН: A black dog in a red harness jumping .
+----------------------------------------
+
+============================================================
+ИТОГОВЫЕ МЕТРИКИ (СРЕДНИЕ)
+============================================================
+
+BLIP (Генерация):
+   BLEU-1: 0.687
+   BLEU-2: 0.504
+   BLEU-3: 0.370
+   BLEU-4: 0.276
+   METEOR: 0.496
+   ROUGE-L: 0.509
+
+ИНТЕРПРЕТАЦИЯ МЕТРИК:
+   BLEU-4: Точное совпадение n-gram
+   METEOR: Учитывает синонимы и морфологию
+   ROUGE-L: Смысловое сходство
+
+            # Стандартные параметры BLIP
+            with torch.no_grad():
+                outputs = self.model_loader.blip_caption_model.generate(
+                    **inputs, 
+                    max_length=45, #50
+                    min_length=12,
+
+                    length_penalty=0.6, #штрафовать длинные описания
+                    repetition_penalty=1.5, #сильнее штрафовать за повторения
+                    no_repeat_ngram_size=3, #запретить повторяющиеся биграммы
+
+                    do_sample = False, #выключить сэмплирование, beam search
+
+                    num_beams=9, #standart: num_beams = 5
+                    early_stopping=True,
+                    
+                    #top_p=0.5 #standart: top_p=0.9
+                )
+            

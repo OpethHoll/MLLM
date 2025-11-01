@@ -1,0 +1,476 @@
+СТАТИСТИКА КАЧЕСТВА ГЕНЕРАЦИИ ОПИСАНИЙ BLIP
+============================================================
+
+ОБЩАЯ ИНФОРМАЦИЯ:
+   Протестировано изображений: 50
+   Всего описаний в датасете: 8091
+
+ДЕТАЛЬНЫЕ РЕЗУЛЬТАТЫ:
+------------------------------------------------------------
+
+ИЗОБРАЖЕНИЕ 1: 3490528249_6aae9b867b.jpg
+BLIP:
+   Описание: two cars racing on a track during a race
+   BLEU-1: 0.667 | BLEU-2: 0.289
+   BLEU-3: 0.141 | BLEU-4: 0.083
+   METEOR: 0.374 | ROUGE-L: 0.353
+ЭТАЛОН: Two automobiles race each other and pour smoke from behind .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 2: 1424237335_b3be9920ba.jpg
+BLIP:
+   Описание: two children playing on a playground
+   BLEU-1: 0.290 | BLEU-2: 0.224
+   BLEU-3: 0.101 | BLEU-4: 0.060
+   METEOR: 0.243 | ROUGE-L: 0.353
+ЭТАЛОН: Two children hang from a metal bar close to the ground .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 3: 320093980_5388cb3733.jpg
+BLIP:
+   Описание: a woman holding a dog
+   BLEU-1: 0.536 | BLEU-2: 0.424
+   BLEU-3: 0.189 | BLEU-4: 0.115
+   METEOR: 0.241 | ROUGE-L: 0.500
+ЭТАЛОН: A laughing woman in a scarf .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 4: 2486364531_b482d7f521.jpg
+BLIP:
+   Описание: the boy is jumping
+   BLEU-1: 0.236 | BLEU-2: 0.072
+   BLEU-3: 0.045 | BLEU-4: 0.034
+   METEOR: 0.075 | ROUGE-L: 0.182
+ЭТАЛОН: A little boy wearing an orange shirt and white shorts jumps barefoot on a plastic jumper on top of the green grass .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 5: 582788646_dc40748639.jpg
+BLIP:
+   Описание: a little girl in the water
+   BLEU-1: 0.245 | BLEU-2: 0.190
+   BLEU-3: 0.085 | BLEU-4: 0.051
+   METEOR: 0.257 | ROUGE-L: 0.421
+ЭТАЛОН: A blond boy wearing water wings bends down at the beach .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 6: 2998024845_1529c11694.jpg
+BLIP:
+   Описание: a man riding a bike down a hill
+   BLEU-1: 0.750 | BLEU-2: 0.463
+   BLEU-3: 0.198 | BLEU-4: 0.111
+   METEOR: 0.357 | ROUGE-L: 0.476
+ЭТАЛОН: A man in an orange shirt and blue helmet races his bike .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 7: 3613027188_1645ca1976.jpg
+BLIP:
+   Описание: a group of men playing a game of hockey
+   BLEU-1: 0.795 | BLEU-2: 0.731
+   BLEU-3: 0.592 | BLEU-4: 0.286
+   METEOR: 0.568 | ROUGE-L: 0.632
+ЭТАЛОН: A group of players chase a ball on a field .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 8: 3208987435_780ae35ef0.jpg
+BLIP:
+   Описание: a woman holding a baby
+   BLEU-1: 0.670 | BLEU-2: 0.581
+   BLEU-3: 0.424 | BLEU-4: 0.252
+   METEOR: 0.464 | ROUGE-L: 0.667
+ЭТАЛОН: An asian woman holding an asian baby that is reaching toward the camera .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 9: 3295418287_5d590dac43.jpg
+BLIP:
+   Описание: a group of people at an outdoor market
+   BLEU-1: 0.625 | BLEU-2: 0.136
+   BLEU-3: 0.070 | BLEU-4: 0.043
+   METEOR: 0.352 | ROUGE-L: 0.400
+ЭТАЛОН: A chinese festival .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 10: 3178300150_d4605ff02c.jpg
+BLIP:
+   Описание: a group of men playing basketball
+   BLEU-1: 0.202 | BLEU-2: 0.066
+   BLEU-3: 0.040 | BLEU-4: 0.027
+   METEOR: 0.132 | ROUGE-L: 0.222
+ЭТАЛОН: A basketball player leaps with the ball while opponents try to block him .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 11: 262446581_06ef7d9445.jpg
+BLIP:
+   Описание: the man is wearing a backpack
+   BLEU-1: 1.000 | BLEU-2: 0.632
+   BLEU-3: 0.265 | BLEU-4: 0.152
+   METEOR: 0.213 | ROUGE-L: 0.381
+ЭТАЛОН: A guy on a log .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 12: 3007214949_a4b027f8a3.jpg
+BLIP:
+   Описание: a black tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram
+   BLEU-1: 0.026 | BLEU-2: 0.016
+   BLEU-3: 0.011 | BLEU-4: 0.007
+   METEOR: 0.054 | ROUGE-L: 0.044
+ЭТАЛОН: A boy and girl bounce on a trampoline nearby a playground and area of foliage .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 13: 3635911776_dbc2763f2c.jpg
+BLIP:
+   Описание: a group of women standing in front of a flag
+   BLEU-1: 0.700 | BLEU-2: 0.558
+   BLEU-3: 0.492 | BLEU-4: 0.427
+   METEOR: 0.350 | ROUGE-L: 0.429
+ЭТАЛОН: Three women dance before a flag .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 14: 3296226598_1c892c4351.jpg
+BLIP:
+   Описание: a man wearing a black leather jacket
+   BLEU-1: 0.558 | BLEU-2: 0.492
+   BLEU-3: 0.400 | BLEU-4: 0.319
+   METEOR: 0.287 | ROUGE-L: 0.462
+ЭТАЛОН: A black man is walking next to a building in a big city .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 15: 3535664885_c848c0faee.jpg
+BLIP:
+   Описание: the goalie has a net
+   BLEU-1: 0.800 | BLEU-2: 0.447
+   BLEU-3: 0.224 | BLEU-4: 0.144
+   METEOR: 0.105 | ROUGE-L: 0.267
+ЭТАЛОН: A hockey player is laying on the ice in front of the goal .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 16: 3028969146_26929ae0e8.jpg
+BLIP:
+   Описание: a dog wearing an orange vest running in the grass
+   BLEU-1: 1.000 | BLEU-2: 0.943
+   BLEU-3: 0.875 | BLEU-4: 0.731
+   METEOR: 0.750 | ROUGE-L: 0.727
+ЭТАЛОН: A beige dog with orange vest running on withering grass .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 17: 468310111_d9396abcbd.jpg
+BLIP:
+   Описание: a field of green grass
+   BLEU-1: 0.270 | BLEU-2: 0.070
+   BLEU-3: 0.040 | BLEU-4: 0.027
+   METEOR: 0.116 | ROUGE-L: 0.286
+ЭТАЛОН: A black and white dog is running through a cow field .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 18: 430803349_a66c91f64e.jpg
+BLIP:
+   Описание: the dog is wet
+   BLEU-1: 0.215 | BLEU-2: 0.143
+   BLEU-3: 0.075 | BLEU-4: 0.053
+   METEOR: 0.184 | ROUGE-L: 0.316
+ЭТАЛОН: A brown dog holding a buoy in its mouth in the water
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 19: 3640870001_acbd1d5ceb.jpg
+BLIP:
+   Описание: the water is clear
+   BLEU-1: 0.130 | BLEU-2: 0.087
+   BLEU-3: 0.046 | BLEU-4: 0.032
+   METEOR: 0.167 | ROUGE-L: 0.250
+ЭТАЛОН: A brown dog is walking in the river with a yellow ring in its mouth .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 20: 3455419642_894d03f153.jpg
+BLIP:
+   Описание: a man playing with a dog
+   BLEU-1: 0.607 | BLEU-2: 0.607
+   BLEU-3: 0.552 | BLEU-4: 0.510
+   METEOR: 0.587 | ROUGE-L: 0.667
+ЭТАЛОН: A black dog jumps at a ball held by a man wearing blue jeans , a blue striped shirt , and a dark blue jacket .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 21: 489773343_a8aecf7db3.jpg
+BLIP:
+   Описание: two dogs on the beach
+   BLEU-1: 0.135 | BLEU-2: 0.096
+   BLEU-3: 0.075 | BLEU-4: 0.046
+   METEOR: 0.268 | ROUGE-L: 0.400
+ЭТАЛОН: A small girl in pink and blue , on the beach , shows something to two black dogs .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 22: 1525153022_06c48dbe52.jpg
+BLIP:
+   Описание: a dog running in the water
+   BLEU-1: 0.705 | BLEU-2: 0.346
+   BLEU-3: 0.168 | BLEU-4: 0.103
+   METEOR: 0.543 | ROUGE-L: 0.667
+ЭТАЛОН: A black dog is running through the shallow edge of a large body of water .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 23: 213216174_0632af65a2.jpg
+BLIP:
+   Описание: the water is blue
+   BLEU-1: 0.368 | BLEU-2: 0.079
+   BLEU-3: 0.044 | BLEU-4: 0.032
+   METEOR: 0.089 | ROUGE-L: 0.250
+ЭТАЛОН: A boy dives into a pool near a water slide .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 24: 3134585858_a8c3493ca5.jpg
+BLIP:
+   Описание: the man is wearing a black coat
+   BLEU-1: 0.465 | BLEU-2: 0.318
+   BLEU-3: 0.239 | BLEU-4: 0.143
+   METEOR: 0.325 | ROUGE-L: 0.353
+ЭТАЛОН: a man and a woman are dressed in black coats
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 25: 2266061169_dfbf8f0595.jpg
+BLIP:
+   Описание: a man laying on the ground
+   BLEU-1: 0.505 | BLEU-2: 0.248
+   BLEU-3: 0.120 | BLEU-4: 0.074
+   METEOR: 0.194 | ROUGE-L: 0.400
+ЭТАЛОН: A man is laying down inside a black , non-working boat .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 26: 3218480482_66af7587c8.jpg
+BLIP:
+   Описание: two men playing basketball
+   BLEU-1: 0.215 | BLEU-2: 0.143
+   BLEU-3: 0.075 | BLEU-4: 0.053
+   METEOR: 0.301 | ROUGE-L: 0.462
+ЭТАЛОН: A basketball player dribbles the ball while another blocks him and an official looks on .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 27: 1394927474_0afdd82fc4.jpg
+BLIP:
+   Описание: a man standing in front of a building
+   BLEU-1: 0.472 | BLEU-2: 0.399
+   BLEU-3: 0.336 | BLEU-4: 0.290
+   METEOR: 0.466 | ROUGE-L: 0.640
+ЭТАЛОН: A boy with a green balloon is standing outside of a large building .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 28: 2874984466_1aafec2c9f.jpg
+BLIP:
+   Описание: a dog chasing a sheep
+   BLEU-1: 0.655 | BLEU-2: 0.518
+   BLEU-3: 0.230 | BLEU-4: 0.140
+   METEOR: 0.636 | ROUGE-L: 0.727
+ЭТАЛОН: A black and white dog is playing with a sheep in a field .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 29: 3421928157_69a325366f.jpg
+BLIP:
+   Описание: the water is splashing
+   BLEU-1: 0.236 | BLEU-2: 0.072
+   BLEU-3: 0.045 | BLEU-4: 0.034
+   METEOR: 0.041 | ROUGE-L: 0.118
+ЭТАЛОН: A group of men in an unner tube going over some rapids
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 30: 2533642917_a5eace85e6.jpg
+BLIP:
+   Описание: a little boy standing in the water
+   BLEU-1: 1.000 | BLEU-2: 0.913
+   BLEU-3: 0.796 | BLEU-4: 0.595
+   METEOR: 0.517 | ROUGE-L: 0.615
+ЭТАЛОН: A boy in a bathing suit stands in water .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 31: 3525417522_7beb617f8b.jpg
+BLIP:
+   Описание: a small dog running through a field of grass
+   BLEU-1: 0.696 | BLEU-2: 0.483
+   BLEU-3: 0.394 | BLEU-4: 0.307
+   METEOR: 0.619 | ROUGE-L: 0.625
+ЭТАЛОН: A daschund leaps through short grass .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 32: 3155451946_c0862c70cb.jpg
+BLIP:
+   Описание: a group of men playing basketball
+   BLEU-1: 0.833 | BLEU-2: 0.408
+   BLEU-3: 0.199 | BLEU-4: 0.122
+   METEOR: 0.426 | ROUGE-L: 0.500
+ЭТАЛОН: Several basketball players are grabbing for the ball during a game .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 33: 2452334314_a7c443a787.jpg
+BLIP:
+   Описание: the horse is white
+   BLEU-1: 0.472 | BLEU-2: 0.273
+   BLEU-3: 0.136 | BLEU-4: 0.094
+   METEOR: 0.201 | ROUGE-L: 0.400
+ЭТАЛОН: An equestrian and horse make a jump on a course .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 34: 3315616181_15dd137e27.jpg
+BLIP:
+   Описание: a man on a climbing wall
+   BLEU-1: 0.705 | BLEU-2: 0.489
+   BLEU-3: 0.211 | BLEU-4: 0.123
+   METEOR: 0.391 | ROUGE-L: 0.556
+ЭТАЛОН: A man in a green shirt climbs an indoor climbing wall .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 35: 3674521435_89ff681074.jpg
+BLIP:
+   Описание: a man doing a trick on a bike
+   BLEU-1: 0.221 | BLEU-2: 0.167
+   BLEU-3: 0.097 | BLEU-4: 0.063
+   METEOR: 0.239 | ROUGE-L: 0.235
+ЭТАЛОН: Cyclists are riding bikes on an off road course beside a river .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 36: 3430526230_234b3550f6.jpg
+BLIP:
+   Описание: the grass is brown in color
+   BLEU-1: 0.358 | BLEU-2: 0.096
+   BLEU-3: 0.054 | BLEU-4: 0.035
+   METEOR: 0.143 | ROUGE-L: 0.235
+ЭТАЛОН: The dogs run through the field near the water .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 37: 3582742297_1daa29968e.jpg
+BLIP:
+   Описание: two dogs playing in a field
+   BLEU-1: 0.717 | BLEU-2: 0.555
+   BLEU-3: 0.482 | BLEU-4: 0.403
+   METEOR: 0.621 | ROUGE-L: 0.714
+ЭТАЛОН: A black dog and two brown and white dogs are romping in the mud .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 38: 1448511770_1a4a9c453b.jpg
+BLIP:
+   Описание: the sky is clear and blue
+   BLEU-1: 0.145 | BLEU-2: 0.047
+   BLEU-3: 0.029 | BLEU-4: 0.019
+   METEOR: 0.060 | ROUGE-L: 0.118
+ЭТАЛОН: A Jack Russell Terrier is measured for distance jumping as he tries to catch a Frisbee .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 39: 3272541970_ac0f1de274.jpg
+BLIP:
+   Описание: a man on a skateboard
+   BLEU-1: 0.294 | BLEU-2: 0.233
+   BLEU-3: 0.189 | BLEU-4: 0.118
+   METEOR: 0.211 | ROUGE-L: 0.533
+ЭТАЛОН: A boy is grinding a skateboard down a concrete wall .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 40: 489134459_1b3f46fc03.jpg
+BLIP:
+   Описание: two children standing in front of a blue door
+   BLEU-1: 0.478 | BLEU-2: 0.463
+   BLEU-3: 0.446 | BLEU-4: 0.320
+   METEOR: 0.426 | ROUGE-L: 0.381
+ЭТАЛОН: a boy and a girl stand in front of a house .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 41: 1956678973_223cb1b847.jpg
+BLIP:
+   Описание: two children playing in a pile of leaves
+   BLEU-1: 0.772 | BLEU-2: 0.698
+   BLEU-3: 0.661 | BLEU-4: 0.624
+   METEOR: 0.628 | ROUGE-L: 0.737
+ЭТАЛОН: Children in red shirts play in the leaves .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 42: 3281611946_f42deed2e1.jpg
+BLIP:
+   Описание: a man wearing a hat
+   BLEU-1: 0.800 | BLEU-2: 0.775
+   BLEU-3: 0.739 | BLEU-4: 0.669
+   METEOR: 0.225 | ROUGE-L: 0.400
+ЭТАЛОН: A bearded man in a blue shirt ls laughing while a suited mustached man holds up a glass .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 43: 252504549_135b0db5a3.jpg
+BLIP:
+   Описание: a small dog playing with a tennis ball
+   BLEU-1: 1.000 | BLEU-2: 0.926
+   BLEU-3: 0.831 | BLEU-4: 0.581
+   METEOR: 0.841 | ROUGE-L: 0.750
+ЭТАЛОН: a dog having fun with a tennis ball
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 44: 2205088706_d7e633e00d.jpg
+BLIP:
+   Описание: a man flying a kite
+   BLEU-1: 0.268 | BLEU-2: 0.085
+   BLEU-3: 0.052 | BLEU-4: 0.036
+   METEOR: 0.105 | ROUGE-L: 0.267
+ЭТАЛОН: a boy in a red jacket is jumping in the sand
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 45: 3422394336_e465f60b7c.jpg
+BLIP:
+   Описание: the grass is green
+   BLEU-1: 0.118 | BLEU-2: 0.051
+   BLEU-3: 0.036 | BLEU-4: 0.029
+   METEOR: 0.097 | ROUGE-L: 0.182
+ЭТАЛОН: A beaver on the shore of a stream .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 46: 1835511273_790eaae6e6.jpg
+BLIP:
+   Описание: a man in a red leather suit
+   BLEU-1: 0.743 | BLEU-2: 0.655
+   BLEU-3: 0.609 | BLEU-4: 0.558
+   METEOR: 0.613 | ROUGE-L: 0.667
+ЭТАЛОН: A man dressed in a red outfit .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 47: 3524519277_bd0c3e7382.jpg
+BLIP:
+   Описание: a group of police officers
+   BLEU-1: 0.221 | BLEU-2: 0.057
+   BLEU-3: 0.033 | BLEU-4: 0.022
+   METEOR: 0.085 | ROUGE-L: 0.200
+ЭТАЛОН: A man holding a bottle wearing tan pants talking to security officers in front of a large poster .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 48: 3016741474_72b4355198.jpg
+BLIP:
+   Описание: a man wearing a white hat
+   BLEU-1: 0.564 | BLEU-2: 0.309
+   BLEU-3: 0.156 | BLEU-4: 0.098
+   METEOR: 0.156 | ROUGE-L: 0.375
+ЭТАЛОН: A couple hug each other , while holding a toy tiger .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 49: 2915538325_59e11276dd.jpg
+BLIP:
+   Описание: a group of people standing around a large fire
+   BLEU-1: 0.778 | BLEU-2: 0.697
+   BLEU-3: 0.596 | BLEU-4: 0.432
+   METEOR: 0.654 | ROUGE-L: 0.667
+ЭТАЛОН: A crowd of people in orange vests looks on as a fireball rises into the sky at an airport .
+----------------------------------------
+
+ИЗОБРАЖЕНИЕ 50: 3176498130_52ab9460b2.jpg
+BLIP:
+   Описание: a group of people sitting in shopping carts
+   BLEU-1: 0.750 | BLEU-2: 0.567
+   BLEU-3: 0.479 | BLEU-4: 0.383
+   METEOR: 0.501 | ROUGE-L: 0.400
+ЭТАЛОН: Boys with bottles pose in shopping carts in urban area .
+----------------------------------------
+
+============================================================
+ИТОГОВЫЕ МЕТРИКИ (СРЕДНИЕ)
+============================================================
+
+BLIP (Генерация):
+   BLEU-1: 0.520
+   BLEU-2: 0.367
+   BLEU-3: 0.268
+   BLEU-4: 0.200
+   METEOR: 0.330
+   ROUGE-L: 0.432
+
+ИНТЕРПРЕТАЦИЯ МЕТРИК:
+   BLEU-4: Точное совпадение n-gram
+   METEOR: Учитывает синонимы и морфологию
+   ROUGE-L: Смысловое сходство

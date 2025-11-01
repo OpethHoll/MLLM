@@ -1,0 +1,63 @@
+СТАТИСТИКА КАЧЕСТВА ГЕНЕРАЦИИ ОПИСАНИЙ
+==================================================
+
+Протестировано изображений: 5
+Всего описаний в датасете: 8091
+
+ДЕТАЛЬНЫЕ РЕЗУЛЬТАТЫ:
+--------------------------------------------------
+
+Изображение 1: 2632111399_b3c1630f8e.jpg
+BLIP: a boy wearing a catcher ' s mits
+  BLEU-4: 0.069, METEOR: 0.132, ROUGE-L: 0.250
+CLIP: a boy in white plays baseball .
+  BLEU-4: 0.063, METEOR: 0.226, ROUGE-L: 0.571
+ЭТАЛОН: A boy catcher in a helmet , stretching out his gloved hand for a catch .
+
+Изображение 2: 3596459539_a47aa80612.jpg
+BLIP: a person riding a motorcycle on a track
+  BLEU-4: 0.234, METEOR: 0.478, ROUGE-L: 0.526
+CLIP: The motocross rider jumps high in the air on his bike .
+  BLEU-4: 0.126, METEOR: 0.323, ROUGE-L: 0.308
+ЭТАЛОН: A guy racing his motorcycle .
+
+Изображение 3: 3421706363_a3e22a4908.jpg
+BLIP: a boy doing a trick on his bike
+  BLEU-4: 0.182, METEOR: 0.535, ROUGE-L: 0.737
+CLIP: A teenage boy is riding a skateboard on the stone handrail of a flight of outdoor steps .
+  BLEU-4: 0.023, METEOR: 0.238, ROUGE-L: 0.400
+ЭТАЛОН: A boy in dark pants and green t-shirt rides his bike up a ramp .
+
+Изображение 4: 2462153092_e3f4d8f6a2.jpg
+BLIP: a little girl playing with two dogs in a field
+  BLEU-4: 0.246, METEOR: 0.750, ROUGE-L: 0.700
+CLIP: A smaller white dog and large shepherd playing near two people .
+  BLEU-4: 0.075, METEOR: 0.309, ROUGE-L: 0.308
+ЭТАЛОН: A girl in purple pants running with two dogs .
+
+Изображение 5: 2836553263_b1a08c25ea.jpg
+BLIP: a boy riding a bike down a road
+  BLEU-4: 0.075, METEOR: 0.312, ROUGE-L: 0.476
+CLIP: A boy on a mountain bike lands after a jump while riding in the forest .
+  BLEU-4: 0.114, METEOR: 0.338, ROUGE-L: 0.429
+ЭТАЛОН: A boy on his bike stops and looks back at the cameraman .
+
+==================================================
+ИТОГОВЫЕ МЕТРИКИ (СРЕДНИЕ)
+==================================================
+
+BLIP (Генерация):
+  BLEU-1: 0.634
+  BLEU-2: 0.519
+  BLEU-3: 0.304
+  BLEU-4: 0.161
+  METEOR: 0.441
+  ROUGE-L: 0.538
+
+CLIP (Выбор):
+  BLEU-1: 0.503
+  BLEU-2: 0.250
+  BLEU-3: 0.139
+  BLEU-4: 0.080
+  METEOR: 0.287
+  ROUGE-L: 0.403
