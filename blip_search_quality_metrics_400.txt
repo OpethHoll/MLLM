@@ -1,0 +1,90 @@
+МЕТРИКИ КАЧЕСТВА ПОИСКА ИЗОБРАЖЕНИЙ ПО ТЕКСТУ (BLIP)
+============================================================
+
+ОБЩАЯ ИНФОРМАЦИЯ:
+   Модель: BLIP Image-Text Retrieval
+   Количество тестовых запросов: 8
+   Top-K для оценки: 5
+   Всего изображений в датасете: 8091
+
+ДЕТАЛЬНЫЕ РЕЗУЛЬТАТЫ ПО ЗАПРОСАМ:
+------------------------------------------------------------
+
+ЗАПРОС 1: 'a dog running'
+   Precision@5: 1.000
+   Recall@5: 1.000
+   mAP@5: 1.000
+   NDCG@5: 1.000
+   Success Rate@5: 1.000
+   Accuracy@1: 1.000
+
+ЗАПРОС 2: 'a person riding a bicycle'
+   Precision@5: 1.000
+   Recall@5: 1.000
+   mAP@5: 1.000
+   NDCG@5: 1.000
+   Success Rate@5: 1.000
+   Accuracy@1: 1.000
+
+ЗАПРОС 3: 'a child playing'
+   Precision@5: 0.400
+   Recall@5: 0.400
+   mAP@5: 0.700
+   NDCG@5: 0.850
+   Success Rate@5: 1.000
+   Accuracy@1: 1.000
+
+ЗАПРОС 4: 'a group of people'
+   Precision@5: 0.600
+   Recall@5: 0.600
+   mAP@5: 0.806
+   NDCG@5: 0.906
+   Success Rate@5: 1.000
+   Accuracy@1: 1.000
+
+ЗАПРОС 5: 'food on a table'
+   Precision@5: 0.600
+   Recall@5: 0.600
+   mAP@5: 0.806
+   NDCG@5: 0.906
+   Success Rate@5: 1.000
+   Accuracy@1: 1.000
+
+ЗАПРОС 6: 'a car on the road'
+   Precision@5: 1.000
+   Recall@5: 1.000
+   mAP@5: 1.000
+   NDCG@5: 1.000
+   Success Rate@5: 1.000
+   Accuracy@1: 1.000
+
+ЗАПРОС 7: 'a person walking'
+   Precision@5: 0.600
+   Recall@5: 0.600
+   mAP@5: 0.806
+   NDCG@5: 0.906
+   Success Rate@5: 1.000
+   Accuracy@1: 1.000
+
+ЗАПРОС 8: 'a building with windows'
+   Precision@5: 0.600
+   Recall@5: 0.600
+   mAP@5: 1.000
+   NDCG@5: 1.000
+   Success Rate@5: 1.000
+   Accuracy@1: 1.000
+
+============================================================
+ИТОГОВЫЕ МЕТРИКИ BLIP (СРЕДНИЕ)
+============================================================
+
+КАЧЕСТВО ПОИСКА BLIP:
+   precision@k    : 0.725
+   recall@k       : 0.725
+   mAP@k          : 0.890
+   ndcg@k         : 0.946
+   success_rate@k : 1.000
+   accuracy@1     : 1.000
+
+ОБЩИЙ ВЫВОД ДЛЯ BLIP:
+   Отличная точность поиска

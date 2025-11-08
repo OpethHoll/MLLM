@@ -1,0 +1,89 @@
+МЕТРИКИ КАЧЕСТВА ПОИСКА ИЗОБРАЖЕНИЙ ПО ТЕКСТУ
+============================================================
+
+ОБЩАЯ ИНФОРМАЦИЯ:
+   Количество тестовых запросов: 8
+   Top-K для оценки: 5
+   Всего изображений в датасете: 8091
+
+ДЕТАЛЬНЫЕ РЕЗУЛЬТАТЫ ПО ЗАПРОСАМ:
+------------------------------------------------------------
+
+ЗАПРОС 1: 'a dog running'
+   Precision@5: 1.000
+   Recall@5: 1.000
+   mAP@5: 1.000
+   NDCG@5: 1.000
+   Success Rate@5: 1.000
+   Accuracy@1: 1.000
+
+ЗАПРОС 2: 'a person riding a bicycle'
+   Precision@5: 1.000
+   Recall@5: 1.000
+   mAP@5: 1.000
+   NDCG@5: 1.000
+   Success Rate@5: 1.000
+   Accuracy@1: 1.000
+
+ЗАПРОС 3: 'a child playing'
+   Precision@5: 0.600
+   Recall@5: 0.600
+   mAP@5: 0.478
+   NDCG@5: 0.618
+   Success Rate@5: 1.000
+   Accuracy@1: 0.000
+
+ЗАПРОС 4: 'a group of people'
+   Precision@5: 0.800
+   Recall@5: 0.800
+   mAP@5: 0.804
+   NDCG@5: 0.905
+   Success Rate@5: 1.000
+   Accuracy@1: 1.000
+
+ЗАПРОС 5: 'food on a table'
+   Precision@5: 1.000
+   Recall@5: 1.000
+   mAP@5: 1.000
+   NDCG@5: 1.000
+   Success Rate@5: 1.000
+   Accuracy@1: 1.000
+
+ЗАПРОС 6: 'a car on the road'
+   Precision@5: 1.000
+   Recall@5: 1.000
+   mAP@5: 1.000
+   NDCG@5: 1.000
+   Success Rate@5: 1.000
+   Accuracy@1: 1.000
+
+ЗАПРОС 7: 'a person walking'
+   Precision@5: 1.000
+   Recall@5: 1.000
+   mAP@5: 1.000
+   NDCG@5: 1.000
+   Success Rate@5: 1.000
+   Accuracy@1: 1.000
+
+ЗАПРОС 8: 'a building with windows'
+   Precision@5: 1.000
+   Recall@5: 1.000
+   mAP@5: 1.000
+   NDCG@5: 1.000
+   Success Rate@5: 1.000
+   Accuracy@1: 1.000
+
+============================================================
+ИТОГОВЫЕ МЕТРИКИ (СРЕДНИЕ)
+============================================================
+
+КАЧЕСТВО ПОИСКА:
+   precision@k    : 0.925
+   recall@k       : 0.925
+   mAP@k          : 0.910
+   ndcg@k         : 0.940
+   success_rate@k : 1.000
+   accuracy@1     : 0.875
+
+ОБЩИЙ ВЫВОД:
+   Отличная точность, первый результат почти всегда релевантен.
